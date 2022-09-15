@@ -1,9 +1,12 @@
 ## Oiii eu sou a Alessandra Souza!
 <div align="center">
   <a href="https://github.com/ale4souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale4souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale4souza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=ale4souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale4souza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Tecnologias que estou estudando
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
